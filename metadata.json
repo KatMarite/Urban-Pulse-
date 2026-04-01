@@ -1,0 +1,5 @@
+{
+  "name": "Urban Pulse",
+  "description": "A sophisticated civic transit concierge for Pretoria, providing real-time tracking, schedules, and digital transit card management.",
+  "requestFramePermissions": ["geolocation"]
+}
